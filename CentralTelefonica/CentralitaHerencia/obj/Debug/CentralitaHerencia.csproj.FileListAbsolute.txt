@@ -1,0 +1,6 @@
+C:\Users\gustavo\Desktop\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\gustavo\Desktop\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+C:\Users\gustavo\Desktop\C#\CentralTelefonica\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+C:\Users\gustavo\Desktop\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+C:\Users\gustavo\Desktop\C#\CentralTelefonica\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
