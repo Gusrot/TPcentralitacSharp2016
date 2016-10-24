@@ -21,9 +21,9 @@ namespace CentralitaHerencia
             miCentralita.Llamadas.Add(LlamadaTres);
             miCentralita.Llamadas.Add(LlamadaCuatro);
 
-            
+            miCentralita.Mostrar();
 
-            //miCentralita.Mostrar();
+            miCentralita.OredenarLlamadas();
 
             Console.ReadKey();
         }       

@@ -19,7 +19,7 @@ namespace CentralitaHerencia
         {
             float costoLlamada;
 
-            costoLlamada = _costo * base._duracion;
+            costoLlamada = this._costo * base._duracion;
 
             return costoLlamada;
         }

@@ -45,9 +45,9 @@ namespace CentralitaHerencia
             Console.WriteLine(sbLlamada);
         }
 
-        public int OrdenarPorDuracion(Llamada uno, Llamada dos)
+        public static int OrdenarPorDuracion(Llamada uno, Llamada dos)
         {
-            throw new System.NotImplementedException();
+            return string.Compare(uno._duracion.ToString(), dos._duracion.ToString());
         }
     }
 }
