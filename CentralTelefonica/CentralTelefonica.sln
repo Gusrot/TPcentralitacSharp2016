@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaHerencia", "Centr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaPolimorfismo", "CentralitaPolimorfismo\CentralitaPolimorfismo.csproj", "{9F8EE3ED-EF0D-43EF-9DA4-AFB52261FB89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CentralitaSerializacion", "CentralitaSerializacion\CentralitaSerializacion.csproj", "{2BFDB823-0671-43B1-AD3E-B71624A2FAA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9F8EE3ED-EF0D-43EF-9DA4-AFB52261FB89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F8EE3ED-EF0D-43EF-9DA4-AFB52261FB89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F8EE3ED-EF0D-43EF-9DA4-AFB52261FB89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFDB823-0671-43B1-AD3E-B71624A2FAA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFDB823-0671-43B1-AD3E-B71624A2FAA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFDB823-0671-43B1-AD3E-B71624A2FAA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFDB823-0671-43B1-AD3E-B71624A2FAA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

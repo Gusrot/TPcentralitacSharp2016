@@ -1,0 +1,5 @@
+C:\Users\gustavo\Desktop\TPcentralitacSharp2016-master\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.exe
+C:\Users\gustavo\Desktop\TPcentralitacSharp2016-master\CentralTelefonica\CentralitaSerializacion\bin\Debug\CentralitaSerializacion.pdb
+C:\Users\gustavo\Desktop\TPcentralitacSharp2016-master\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.csprojResolveAssemblyReference.cache
+C:\Users\gustavo\Desktop\TPcentralitacSharp2016-master\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.exe
+C:\Users\gustavo\Desktop\TPcentralitacSharp2016-master\CentralTelefonica\CentralitaSerializacion\obj\Debug\CentralitaSerializacion.pdb
